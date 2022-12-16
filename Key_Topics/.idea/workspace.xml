@@ -1,0 +1,1095 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="feb0ccc7-bf08-4273-afd0-af45f5d67ca1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_annotations_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Key_Topics.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Abstract/AbstractDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Abstract/edureka/Area.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Abstract/edureka/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Abstract/simpliLearn/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Abstract/simpliLearn/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Abstract/simpliLearn/RateOfInterest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Abstract/simpliLearn/School.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Anonymous.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AnonymousClassWithInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BoundedWildcard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Default.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MultipleInheritanceIssueWithInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/TryWithResource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/UserInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/annotation/AnnotationsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/annotation/codingWithJohn/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/annotation/codingWithJohn/CreatingAnnotations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/annotation/codingWithJohn/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/annotation/codingWithJohn/ImportantString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/annotation/codingWithJohn/RunImmediately.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/annotation/codingWithJohn/SuppressWarning.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/annotation/codingWithJohn/VeryImportant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/annotation/hindiLec/AnnotationsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/annotation/hindiLec/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/annotation/hindiLec/ClassPreamble.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/annotation/hindiLec/CustomAnnotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/annotation/hindiLec/DeprecatedAnnotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/annotation/hindiLec/DocumentedAnnotationDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/annotation/hindiLec/InheritedAnnotationDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/annotation/hindiLec/MarkerAnnotationDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/annotation/hindiLec/MultiValueAnnotationDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/annotation/hindiLec/MultiValueAnnotationDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/annotation/hindiLec/MyClassPreamble.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/annotation/hindiLec/OverrideAnnotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/annotation/hindiLec/RepeatingAnnotations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/annotation/hindiLec/RepeatingAnnotations1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/annotation/hindiLec/ServerRestartSchedule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/annotation/hindiLec/SingleValueAnnotationDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/annotation/kodySimpson/EmptyAnnotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/annotation/kodySimpson/FilledAnnotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/annotation/kodySimpson/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/areaRunTimePolymorphism/Figure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/areaRunTimePolymorphism/FindAreas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/areaRunTimePolymorphism/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/areaRunTimePolymorphism/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/areaRunTimePolymorphism/area.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/boxProject/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/boxProject/BoxDem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/boxProject/BoxVolume.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/boxProject/BoxWeight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fixedstack/FixedStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fixedstack/IFTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fixedstack/IntStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/generics/BoundedWildcard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/generics/BoundsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/generics/BridgeDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/generics/GenArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/generics/GenConsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/generics/GenDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/generics/GenIFDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/generics/GenMethDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/generics/HierDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/generics/HierDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/generics/HierDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/generics/OverrideDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/generics/TwoGen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/generics/WildCardDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/generics/broCode/GenericClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/generics/broCode/GenericMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/generics/codingWithJohn/GenericsExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/generics/codingWithMosh/GenericList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/generics/edureka/GenericClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/generics/edureka/GenericMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/generics/edureka/GenericTypeMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/growableStack/DynStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/growableStack/IFTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/growableStack/IFTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ioTryWithResourcesAndOtherTopics/AssertDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ioTryWithResourcesAndOtherTopics/BufferedReaderRead.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ioTryWithResourcesAndOtherTopics/BufferedReaderReadLines.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ioTryWithResourcesAndOtherTopics/CopyFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ioTryWithResourcesAndOtherTopics/CopyFile1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ioTryWithResourcesAndOtherTopics/InstanceOf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ioTryWithResourcesAndOtherTopics/PrintWriterDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ioTryWithResourcesAndOtherTopics/ShowFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ioTryWithResourcesAndOtherTopics/ShowFile1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ioTryWithResourcesAndOtherTopics/StaticImport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ioTryWithResourcesAndOtherTopics/TinyEditor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/multiThreadingProgramming/Deadlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/multiThreadingProgramming/InterThreadComm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/multiThreadingProgramming/MultiThreadDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/multiThreadingProgramming/MultiThreadThing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/multiThreadingProgramming/MultiThreading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/multiThreadingProgramming/RunnableInterfaceMultiThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/multiThreadingProgramming/RunnableInterfacePowerAndMainThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/multiThreadingProgramming/SuspendResume.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/multiThreadingProgramming/SyncApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/multiThreadingProgramming/SynchronizedBlockMultiThreads.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/multiThreadingProgramming/SynchronizedDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/multiThreadingProgramming/SynchronizedMethodsMultiThreads.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/multiThreadingProgramming/ThreadClassMultiThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/multiThreadingProgramming/ThreadClassPowerAndMainThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/multiThreadingProgramming/ThreadPriorityAndName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/numberFactorials/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/A6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Ab.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Abstract/AbstractDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Abstract/Human.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Abstract/Man.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Anonymous$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Anonymous.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/AnonymousClassWithInterface.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Default.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Demon.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/DemonImp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Gen.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/MultipleInheritanceIssueWithInterface.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/MyDemon.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/TryWithResource.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/UserInput.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/annotation/AnnotationsDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/areaRunTimePolymorphism/Area.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/areaRunTimePolymorphism/Figure.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/areaRunTimePolymorphism/FindAreas.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/areaRunTimePolymorphism/Rectangle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/areaRunTimePolymorphism/Triangle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/boxProject/Box.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/boxProject/BoxDem.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/boxProject/BoxVolume.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/boxProject/BoxWeight.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/fixedstack/FixedStack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/fixedstack/IFTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/fixedstack/IntStack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/generics/BoundsDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/generics/Gen.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/generics/GenDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/generics/SimpGen.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/generics/Stats.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/generics/Stats1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/generics/TwoGen.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/generics/WildCardDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/growableStack/DynStack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/growableStack/IFTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/growableStack/IFTest2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ioTryWithResourcesAndOtherTopics/A.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ioTryWithResourcesAndOtherTopics/AssertDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ioTryWithResourcesAndOtherTopics/B.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ioTryWithResourcesAndOtherTopics/BufferedReaderRead.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ioTryWithResourcesAndOtherTopics/BufferedReaderReadLines.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ioTryWithResourcesAndOtherTopics/C.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ioTryWithResourcesAndOtherTopics/CopyFile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ioTryWithResourcesAndOtherTopics/CopyFile1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ioTryWithResourcesAndOtherTopics/D.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ioTryWithResourcesAndOtherTopics/InstanceOf.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ioTryWithResourcesAndOtherTopics/PrintWriterDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ioTryWithResourcesAndOtherTopics/ShowFile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ioTryWithResourcesAndOtherTopics/ShowFile1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ioTryWithResourcesAndOtherTopics/StaticImport.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ioTryWithResourcesAndOtherTopics/TinyEditor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/multiThreadingProgramming/A.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/multiThreadingProgramming/B.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/multiThreadingProgramming/Caller.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/multiThreadingProgramming/Caller1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/multiThreadingProgramming/Callme.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/multiThreadingProgramming/Callme1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/multiThreadingProgramming/Consumer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/multiThreadingProgramming/Counter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/multiThreadingProgramming/Deadlock.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/multiThreadingProgramming/InterThreadComm.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/multiThreadingProgramming/MultiThreadDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/multiThreadingProgramming/MultiThreadThing.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/multiThreadingProgramming/MultiThreading.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/multiThreadingProgramming/MyThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/multiThreadingProgramming/NewThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/multiThreadingProgramming/NewThread1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/multiThreadingProgramming/NewThread2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/multiThreadingProgramming/NewThread3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/multiThreadingProgramming/NewThread4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/multiThreadingProgramming/Printer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/multiThreadingProgramming/Producer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/multiThreadingProgramming/Q.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/multiThreadingProgramming/RunnableInterfaceMultiThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/multiThreadingProgramming/RunnableInterfacePowerAndMainThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/multiThreadingProgramming/SuspendResume.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/multiThreadingProgramming/SyncApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/multiThreadingProgramming/SynchronizedBlockMultiThreads.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/multiThreadingProgramming/SynchronizedDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/multiThreadingProgramming/SynchronizedMethodsMultiThreads.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/multiThreadingProgramming/ThreadClassMultiThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/multiThreadingProgramming/ThreadClassPowerAndMainThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/multiThreadingProgramming/ThreadPriorityAndName.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/multiThreadingProgramming/YourThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/numberFactorials/Factorial.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/numberFactorials/Recursion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/anOverviewOfJava/BlockTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/anOverviewOfJava/Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/anOverviewOfJava/Example1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/anOverviewOfJava/ForTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/anOverviewOfJava/ifSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/closerLookAtMethodsAndClasses/AccessTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/closerLookAtMethodsAndClasses/AccessTestStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/closerLookAtMethodsAndClasses/CallByValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/closerLookAtMethodsAndClasses/CommandLineArguments.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/closerLookAtMethodsAndClasses/InnerClassDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/closerLookAtMethodsAndClasses/InnerClassWithinForLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/closerLookAtMethodsAndClasses/LengthArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/closerLookAtMethodsAndClasses/ObjectsAsParameters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/closerLookAtMethodsAndClasses/OverloadCons.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/closerLookAtMethodsAndClasses/OverloadConstructorWithObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/closerLookAtMethodsAndClasses/OverloadMeth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/closerLookAtMethodsAndClasses/OverloadMethWithTypeConversions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/closerLookAtMethodsAndClasses/OverloadingVarargs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/closerLookAtMethodsAndClasses/PassObjectReference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/closerLookAtMethodsAndClasses/Recursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/closerLookAtMethodsAndClasses/Recursion1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/closerLookAtMethodsAndClasses/RefVarDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/closerLookAtMethodsAndClasses/ReturningObjects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/closerLookAtMethodsAndClasses/StaticByName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/closerLookAtMethodsAndClasses/StringArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/closerLookAtMethodsAndClasses/StringDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/closerLookAtMethodsAndClasses/StringMethodsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/closerLookAtMethodsAndClasses/TestStackArrayLength.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/closerLookAtMethodsAndClasses/UseStatic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/closerLookAtMethodsAndClasses/VarArgs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/closerLookAtMethodsAndClasses/VarArgs1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/closerLookAtMethodsAndClasses/VariableLengthArguments.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/controlStatements/Break.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/controlStatements/BreakLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/controlStatements/BreakLoop2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/controlStatements/BreakLoop3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/controlStatements/BreakLoop4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/controlStatements/Comma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/controlStatements/Continue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/controlStatements/ContinueLabel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/controlStatements/DoWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/controlStatements/DoWhileMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/controlStatements/FindPrime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/controlStatements/ForEach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/controlStatements/ForEachBreak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/controlStatements/ForTick.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/controlStatements/ForVar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/controlStatements/IfElse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/controlStatements/MissingBreak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/controlStatements/Nested.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/controlStatements/NoChange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/controlStatements/Return.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/controlStatements/SampleSwitch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/controlStatements/Search.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/controlStatements/StringSwitch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/controlStatements/Switch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/controlStatements/TypeInferenceInFor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/controlStatements/While.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/controlStatements/WhileNoBody.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/dataTypesVariablesAndArrays/Area.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/dataTypesVariablesAndArrays/Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/dataTypesVariablesAndArrays/AutoArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/dataTypesVariablesAndArrays/Average.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/dataTypesVariablesAndArrays/BoolTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/dataTypesVariablesAndArrays/CharDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/dataTypesVariablesAndArrays/CharDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/dataTypesVariablesAndArrays/Conversion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/dataTypesVariablesAndArrays/DynInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/dataTypesVariablesAndArrays/LifeTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/dataTypesVariablesAndArrays/Light.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/dataTypesVariablesAndArrays/Promote.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/dataTypesVariablesAndArrays/Scope.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/dataTypesVariablesAndArrays/VarDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/enumerationsAutoboxingAndAnnotations/Apple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/enumerationsAutoboxingAndAnnotations/AskMe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/enumerationsAutoboxingAndAnnotations/AutoBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/enumerationsAutoboxingAndAnnotations/AutoBox1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/enumerationsAutoboxingAndAnnotations/AutoBox2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/enumerationsAutoboxingAndAnnotations/AutoBox3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/enumerationsAutoboxingAndAnnotations/AutoBox4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/enumerationsAutoboxingAndAnnotations/EnumConstInstvarMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/enumerationsAutoboxingAndAnnotations/EnumDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/enumerationsAutoboxingAndAnnotations/EnumValueAndValueOfMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/enumerationsAutoboxingAndAnnotations/MarkerAnnotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/enumerationsAutoboxingAndAnnotations/Meta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/enumerationsAutoboxingAndAnnotations/Meta1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/enumerationsAutoboxingAndAnnotations/Meta2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/enumerationsAutoboxingAndAnnotations/Meta3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/enumerationsAutoboxingAndAnnotations/NumericTypeWrapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/enumerationsAutoboxingAndAnnotations/RepeatAnnotations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/enumerationsAutoboxingAndAnnotations/SingleMemberAnnotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/enumerationsAutoboxingAndAnnotations/TypeAnnotationDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/exceptionHandling/ChainExcDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/exceptionHandling/Exc0.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/exceptionHandling/ExceptionDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/exceptionHandling/FinallyDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/exceptionHandling/HandleError.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/exceptionHandling/MethNestTry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/exceptionHandling/MultiCatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/exceptionHandling/MultipleCatches.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/exceptionHandling/NestTry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/exceptionHandling/ThrowDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/exceptionHandling/ThrowsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/generics/BoundsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/generics/BridgeDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/generics/GenArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/generics/GenConsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/generics/GenDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/generics/GenHierDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/generics/GenHierDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/generics/GenHierDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/generics/GenIFDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/generics/GenMethDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/generics/MethOverrideDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/generics/NonGenDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/generics/RawTypeDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/generics/SimpGen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/generics/WildcardDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/iOtryWithResourcesAndOtherTopics/AssertDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/iOtryWithResourcesAndOtherTopics/BRRead.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/iOtryWithResourcesAndOtherTopics/BRReadLines.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/iOtryWithResourcesAndOtherTopics/CopyFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/iOtryWithResourcesAndOtherTopics/CopyFile1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/iOtryWithResourcesAndOtherTopics/InstanceOf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/iOtryWithResourcesAndOtherTopics/PrintWriterDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/iOtryWithResourcesAndOtherTopics/ShowFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/iOtryWithResourcesAndOtherTopics/ShowFile1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/iOtryWithResourcesAndOtherTopics/StaticImport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/iOtryWithResourcesAndOtherTopics/TinyEditor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/iOtryWithResourcesAndOtherTopics/WriteDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/inheritance/AbstractAreas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/inheritance/AbstractDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/inheritance/BoxWeightInheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/inheritance/CallingConstructors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/inheritance/DemoSuper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/inheritance/DynamicMethodDispatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/inheritance/MethodOverload.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/inheritance/MethodOverride.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/inheritance/MultiLevelHierarchicalInheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/inheritance/RunTimePolymorphism.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/inheritance/SimpleInheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/inheritance/SuperNameHiding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/inheritance/TypeInferenceAndInheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/introducingClasses/BoxDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/introducingClasses/BoxDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/introducingClasses/BoxDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/introducingClasses/BoxDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/introducingClasses/BoxDemo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/introducingClasses/BoxDemo5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/introducingClasses/BoxDemo6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/introducingClasses/TestStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/lambdaExpressions/BlockLambdaDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/lambdaExpressions/BlockLambdaDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/lambdaExpressions/ConstructorRefDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/lambdaExpressions/ConstructorRfDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/lambdaExpressions/GenericClassConstructorRefDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/lambdaExpressions/GenericFunctionalInterfaceDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/lambdaExpressions/GenericMethodRefDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/lambdaExpressions/InstanceMethWithObjectRefDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/lambdaExpressions/InstanceMethodRefDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/lambdaExpressions/LambdaDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/lambdaExpressions/LambdaDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/lambdaExpressions/LambdaDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/lambdaExpressions/LambdaExceptionDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/lambdaExpressions/LambdasAsArgumentsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/lambdaExpressions/MethodRefDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/lambdaExpressions/UseFunctionInterfaceDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/lambdaExpressions/UseMethodRef.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/lambdaExpressions/VarCapture.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/multiThreadedProgramming/CurrentThreadDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/multiThreadedProgramming/Deadlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/multiThreadedProgramming/DemoJoin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/multiThreadedProgramming/ExtendThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/multiThreadedProgramming/MultiThreadDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/multiThreadedProgramming/PCFixed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/multiThreadedProgramming/SuspendResume.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/multiThreadedProgramming/Synchronization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/multiThreadedProgramming/ThreadDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/operators/BasicMath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/operators/BoolLogic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/operators/IncDec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/operators/Modulus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/operators/OpEquals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/operators/Ternary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/p1/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/p1/Derived.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/p1/Protection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/p1/SamePackage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/p2/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/p2/OtherPackage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/p2/Protection2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/packagesAndInterfaces/AnotherClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/packagesAndInterfaces/AskMe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/packagesAndInterfaces/Balance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/packagesAndInterfaces/CallBackInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/packagesAndInterfaces/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/packagesAndInterfaces/DefaultMethodDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/packagesAndInterfaces/IFExtend.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/packagesAndInterfaces/IFTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/packagesAndInterfaces/IFTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/packagesAndInterfaces/IFTest3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/packagesAndInterfaces/IntStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/packagesAndInterfaces/IntStack1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/packagesAndInterfaces/MyIF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/packagesAndInterfaces/MyIFImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/packagesAndInterfaces/NestedInterFaceDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/packagesAndInterfaces/TestBalance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/packagesAndInterfaces/TestIface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part1/packagesAndInterfaces/TestIface2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part2/default_Code/DefaultCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part2/exploringjavadotlang/ACDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part2/exploringjavadotlang/Angles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part2/exploringjavadotlang/CloneDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part2/exploringjavadotlang/CloneDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part2/exploringjavadotlang/DoubleDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part2/exploringjavadotlang/Elapsed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part2/exploringjavadotlang/ExecDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part2/exploringjavadotlang/ExecDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part2/exploringjavadotlang/ExecDemoFini.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part2/exploringjavadotlang/InfNaN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part2/exploringjavadotlang/IsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part2/exploringjavadotlang/MemoryDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part2/exploringjavadotlang/PBDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part2/exploringjavadotlang/ParseDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part2/exploringjavadotlang/PkgTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part2/exploringjavadotlang/RTTI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part2/exploringjavadotlang/StringConversions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part2/exploringjavadotlang/ThreadGroupDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part2/exploringjavadotlang/VerDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part2/javadotutilPart2/AvgFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part2/javadotutilPart2/AvgNums.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part2/javadotutilPart2/BitSetDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part2/javadotutilPart2/CalendarDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part2/javadotutilPart2/CurrencyDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part2/javadotutilPart2/DateDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part2/javadotutilPart2/FieldWidthDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part2/javadotutilPart2/FindInLineDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part2/javadotutilPart2/FormatDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part2/javadotutilPart2/FormatDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part2/javadotutilPart2/FormatDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part2/javadotutilPart2/FormatDemo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part2/javadotutilPart2/FormatDemo5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part2/javadotutilPart2/FormatDemo6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part2/javadotutilPart2/FormatDemo6Rpt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part2/javadotutilPart2/GregorianCalendarDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part2/javadotutilPart2/LRBDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part2/javadotutilPart2/LeftJustify.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part2/javadotutilPart2/OptionalDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part2/javadotutilPart2/PrecisionDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part2/javadotutilPart2/RandDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part2/javadotutilPart2/STDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part2/javadotutilPart2/SampleRB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part2/javadotutilPart2/SampleRB_de.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part2/javadotutilPart2/ScanMixed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part2/javadotutilPart2/SetDelimiters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part2/javadotutilPart2/TimeDateFormat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part2/javadotutilPart2/TimerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part2/stringHandling/AppendDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part2/stringHandling/ChangeCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part2/stringHandling/CharExtraction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part2/stringHandling/ConCat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part2/stringHandling/ConCat1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part2/stringHandling/ConCat2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part2/stringHandling/EqualsNotEqualTo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part2/stringHandling/IndexOf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part2/stringHandling/InsertDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part2/stringHandling/MakeString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part2/stringHandling/ReplaceDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part2/stringHandling/ReverseDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part2/stringHandling/SetCharAtDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part2/stringHandling/SortString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part2/stringHandling/StringBufferDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part2/stringHandling/StringConstructors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part2/stringHandling/StringJoinDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part2/stringHandling/StringLength.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part2/stringHandling/StringLiteral.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part2/stringHandling/StringReplace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part2/stringHandling/SubStringCons.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part2/stringHandling/UseTrim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part2/stringHandling/deleteDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part2/stringHandling/equalsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part2/stringHandling/indexOfDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part2/stringHandling/replaceMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/src/main/java/Part2/stringHandling/toStringDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/anOverviewOfJava/BlockTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/anOverviewOfJava/Example.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/anOverviewOfJava/Example1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/anOverviewOfJava/ForTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/anOverviewOfJava/ifSample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/closerLookAtMethodsAndClasses/AccessTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/closerLookAtMethodsAndClasses/AccessTestStack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/closerLookAtMethodsAndClasses/Box.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/closerLookAtMethodsAndClasses/CallByValue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/closerLookAtMethodsAndClasses/CommandLineArguments.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/closerLookAtMethodsAndClasses/Factorial.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/closerLookAtMethodsAndClasses/InnerClassDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/closerLookAtMethodsAndClasses/InnerClassWithinForLoop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/closerLookAtMethodsAndClasses/LengthArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/closerLookAtMethodsAndClasses/MyClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/closerLookAtMethodsAndClasses/ObjectsAsParameters.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/closerLookAtMethodsAndClasses/Outer$Inner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/closerLookAtMethodsAndClasses/Outer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/closerLookAtMethodsAndClasses/Outer1$1Inner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/closerLookAtMethodsAndClasses/Outer1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/closerLookAtMethodsAndClasses/OverloadCons.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/closerLookAtMethodsAndClasses/OverloadDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/closerLookAtMethodsAndClasses/OverloadDemo1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/closerLookAtMethodsAndClasses/OverloadMeth.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/closerLookAtMethodsAndClasses/OverloadMethWithTypeConversions.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/closerLookAtMethodsAndClasses/OverloadingVarargs.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/closerLookAtMethodsAndClasses/PassObjectReference.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/closerLookAtMethodsAndClasses/RecTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/closerLookAtMethodsAndClasses/Recursion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/closerLookAtMethodsAndClasses/Recursion1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/closerLookAtMethodsAndClasses/RefVarDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/closerLookAtMethodsAndClasses/ReturningObjects.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/closerLookAtMethodsAndClasses/Stack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/closerLookAtMethodsAndClasses/Stack1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/closerLookAtMethodsAndClasses/StaticByName.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/closerLookAtMethodsAndClasses/StaticDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/closerLookAtMethodsAndClasses/StringArrays.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/closerLookAtMethodsAndClasses/StringDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/closerLookAtMethodsAndClasses/StringMethodsDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/closerLookAtMethodsAndClasses/Test1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/closerLookAtMethodsAndClasses/Test2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/closerLookAtMethodsAndClasses/Test3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/closerLookAtMethodsAndClasses/Test4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/closerLookAtMethodsAndClasses/Test5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/closerLookAtMethodsAndClasses/TestStackArrayLength.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/closerLookAtMethodsAndClasses/UseStatic.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/closerLookAtMethodsAndClasses/VarArgs.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/closerLookAtMethodsAndClasses/VarArgs1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/closerLookAtMethodsAndClasses/VariableLengthArguments.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/controlStatements/Break.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/controlStatements/BreakLoop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/controlStatements/BreakLoop2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/controlStatements/BreakLoop3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/controlStatements/BreakLoop4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/controlStatements/Comma.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/controlStatements/Continue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/controlStatements/ContinueLabel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/controlStatements/DoWhile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/controlStatements/DoWhileMenu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/controlStatements/FindPrime.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/controlStatements/ForEach.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/controlStatements/ForEachBreak.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/controlStatements/ForTick.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/controlStatements/ForVar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/controlStatements/IfElse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/controlStatements/MissingBreak.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/controlStatements/Nested.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/controlStatements/NoChange.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/controlStatements/Return.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/controlStatements/SampleSwitch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/controlStatements/Search.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/controlStatements/StringSwitch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/controlStatements/Switch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/controlStatements/TypeInferenceInFor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/controlStatements/While.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/controlStatements/WhileNoBody.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/dataTypesVariablesAndArrays/Area.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/dataTypesVariablesAndArrays/Array.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/dataTypesVariablesAndArrays/AutoArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/dataTypesVariablesAndArrays/Average.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/dataTypesVariablesAndArrays/BoolTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/dataTypesVariablesAndArrays/CharDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/dataTypesVariablesAndArrays/CharDemo1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/dataTypesVariablesAndArrays/Conversion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/dataTypesVariablesAndArrays/DynInit.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/dataTypesVariablesAndArrays/LifeTime.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/dataTypesVariablesAndArrays/Light.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/dataTypesVariablesAndArrays/Promote.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/dataTypesVariablesAndArrays/Scope.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/dataTypesVariablesAndArrays/VarDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/enumerationsAutoboxingAndAnnotations/Answers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/enumerationsAutoboxingAndAnnotations/Apple.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/enumerationsAutoboxingAndAnnotations/Apple1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/enumerationsAutoboxingAndAnnotations/AskMe$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/enumerationsAutoboxingAndAnnotations/AskMe.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/enumerationsAutoboxingAndAnnotations/AutoBox.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/enumerationsAutoboxingAndAnnotations/AutoBox1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/enumerationsAutoboxingAndAnnotations/AutoBox2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/enumerationsAutoboxingAndAnnotations/AutoBox3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/enumerationsAutoboxingAndAnnotations/AutoBox4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/enumerationsAutoboxingAndAnnotations/EmptyOK.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/enumerationsAutoboxingAndAnnotations/EnumConstInstvarMethod.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/enumerationsAutoboxingAndAnnotations/EnumDemo$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/enumerationsAutoboxingAndAnnotations/EnumDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/enumerationsAutoboxingAndAnnotations/EnumValueAndValueOfMethods.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/enumerationsAutoboxingAndAnnotations/MarkerAnnotation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/enumerationsAutoboxingAndAnnotations/MaxLen.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/enumerationsAutoboxingAndAnnotations/Meta.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/enumerationsAutoboxingAndAnnotations/Meta1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/enumerationsAutoboxingAndAnnotations/Meta2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/enumerationsAutoboxingAndAnnotations/Meta3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/enumerationsAutoboxingAndAnnotations/MyAnno.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/enumerationsAutoboxingAndAnnotations/MyAnno1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/enumerationsAutoboxingAndAnnotations/MyAnno2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/enumerationsAutoboxingAndAnnotations/MyAnno3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/enumerationsAutoboxingAndAnnotations/MyAnno4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/enumerationsAutoboxingAndAnnotations/MyMarker.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/enumerationsAutoboxingAndAnnotations/MyRepeatedAnnos.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/enumerationsAutoboxingAndAnnotations/MySingle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/enumerationsAutoboxingAndAnnotations/NotZeroLen.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/enumerationsAutoboxingAndAnnotations/NumericTypeWrapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/enumerationsAutoboxingAndAnnotations/Question.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/enumerationsAutoboxingAndAnnotations/Recommended.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/enumerationsAutoboxingAndAnnotations/RepeatAnnotations.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/enumerationsAutoboxingAndAnnotations/SingleMemberAnnotation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/enumerationsAutoboxingAndAnnotations/TypeAnno.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/enumerationsAutoboxingAndAnnotations/TypeAnnotationDemo$SomeClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/enumerationsAutoboxingAndAnnotations/TypeAnnotationDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/enumerationsAutoboxingAndAnnotations/Unique.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/enumerationsAutoboxingAndAnnotations/What.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/enumerationsAutoboxingAndAnnotations/What1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/inheritance/A5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/inheritance/B5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/inheritance/C5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/inheritance/DynamicMethodDispatch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/lambdaExpressions/BlockLambdaDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/lambdaExpressions/BlockLambdaDemo2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/lambdaExpressions/ConstructorRefDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/lambdaExpressions/ConstructorRfDemo1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/lambdaExpressions/DoubleNumericArrayFunc.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/lambdaExpressions/EmptyArrayException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/lambdaExpressions/GenericClassConstructorRefDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/lambdaExpressions/GenericFunctionalInterfaceDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/lambdaExpressions/GenericMethodRefDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/lambdaExpressions/HighTemp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/lambdaExpressions/InstanceMethWithObjectRefDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/lambdaExpressions/InstanceMethodRefDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/lambdaExpressions/LambdaDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/lambdaExpressions/LambdaDemo2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/lambdaExpressions/LambdaDemo3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/lambdaExpressions/LambdaExceptionDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/lambdaExpressions/LambdasAsArgumentsDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/lambdaExpressions/MethodRefDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/lambdaExpressions/MyArrayOps.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/lambdaExpressions/MyClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/lambdaExpressions/MyClass1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/lambdaExpressions/MyClass2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/lambdaExpressions/MyClass3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/lambdaExpressions/MyClass4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/lambdaExpressions/MyFunc.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/lambdaExpressions/MyFunc1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/lambdaExpressions/MyFunc2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/lambdaExpressions/MyFunc3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/lambdaExpressions/MyFunc4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/lambdaExpressions/MyFunc5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/lambdaExpressions/MyNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/lambdaExpressions/MyStringOps.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/lambdaExpressions/MyStringOps1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/lambdaExpressions/NumericFunc.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/lambdaExpressions/NumericTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/lambdaExpressions/NumericTest2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/lambdaExpressions/SomeFunc.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/lambdaExpressions/StringFun2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/lambdaExpressions/StringFunc.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/lambdaExpressions/StringFunc1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/lambdaExpressions/StringFunc3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/lambdaExpressions/UseFunctionInterfaceDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/lambdaExpressions/UseMethodRef.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/lambdaExpressions/VarCapture.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/packagesAndInterfaces/DynStack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/packagesAndInterfaces/FixedStack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/packagesAndInterfaces/IFTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/packagesAndInterfaces/IFTest2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/packagesAndInterfaces/IFTest3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part1/packagesAndInterfaces/IntStack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part2/default_Code/DefaultCode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part2/exploringjavadotlang/ACDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part2/exploringjavadotlang/Angles.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part2/exploringjavadotlang/CloneDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part2/exploringjavadotlang/CloneDemo1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part2/exploringjavadotlang/DoubleDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part2/exploringjavadotlang/Elapsed.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part2/exploringjavadotlang/ExecDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part2/exploringjavadotlang/ExecDemoFini.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part2/exploringjavadotlang/InfNaN.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part2/exploringjavadotlang/IsDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part2/exploringjavadotlang/MemoryDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part2/exploringjavadotlang/NewThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part2/exploringjavadotlang/PBDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part2/exploringjavadotlang/ParseDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part2/exploringjavadotlang/PkgTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part2/exploringjavadotlang/RTTI.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part2/exploringjavadotlang/StringConversions.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part2/exploringjavadotlang/TestClone.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part2/exploringjavadotlang/TestClone1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part2/exploringjavadotlang/ThreadGroupDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part2/exploringjavadotlang/VerDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part2/exploringjavadotlang/X.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part2/exploringjavadotlang/Y.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part2/javadotutilPart2/AvgFile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part2/javadotutilPart2/AvgNums.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part2/javadotutilPart2/BitSetDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part2/javadotutilPart2/CalendarDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part2/javadotutilPart2/CurrencyDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part2/javadotutilPart2/DateDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part2/javadotutilPart2/FieldWidthDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part2/javadotutilPart2/FindInLineDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part2/javadotutilPart2/FormatDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part2/javadotutilPart2/FormatDemo2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part2/javadotutilPart2/FormatDemo3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part2/javadotutilPart2/FormatDemo4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part2/javadotutilPart2/FormatDemo5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part2/javadotutilPart2/FormatDemo6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part2/javadotutilPart2/FormatDemo6Rpt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part2/javadotutilPart2/GregorianCalendarDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part2/javadotutilPart2/LRBDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part2/javadotutilPart2/LeftJustify.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part2/javadotutilPart2/MyTimerTask.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part2/javadotutilPart2/OptionalDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part2/javadotutilPart2/PrecisionDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part2/javadotutilPart2/RandDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part2/javadotutilPart2/STDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part2/javadotutilPart2/SampleRB.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part2/javadotutilPart2/SampleRB_de.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part2/javadotutilPart2/ScanMixed.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part2/javadotutilPart2/SetDelimiters.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part2/javadotutilPart2/TimeDateFormat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part2/javadotutilPart2/TimerTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part2/stringHandling/AppendDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part2/stringHandling/Box.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part2/stringHandling/ChangeCase.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part2/stringHandling/CharExtraction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part2/stringHandling/ConCat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part2/stringHandling/ConCat1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part2/stringHandling/ConCat2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part2/stringHandling/EqualsNotEqualTo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part2/stringHandling/IndexOf.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part2/stringHandling/InsertDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part2/stringHandling/MakeString.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part2/stringHandling/ReplaceDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part2/stringHandling/ReverseDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part2/stringHandling/SetCharAtDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part2/stringHandling/SortString.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part2/stringHandling/StringBufferDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part2/stringHandling/StringConstructors.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part2/stringHandling/StringJoinDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part2/stringHandling/StringLength.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part2/stringHandling/StringLiteral.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part2/stringHandling/StringReplace.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part2/stringHandling/SubStringCons.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part2/stringHandling/UseTrim.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part2/stringHandling/deleteDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part2/stringHandling/equalsDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part2/stringHandling/indexOfDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part2/stringHandling/replaceMethod.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/Part2/stringHandling/toStringDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/closerLookAtMethodsAndClasses/Box1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/closerLookAtMethodsAndClasses/OverloadConstructorWithObject.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/exceptionHandling/ChainExcDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/exceptionHandling/Exc0.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/exceptionHandling/ExceptionDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/exceptionHandling/FinallyDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/exceptionHandling/HandleError.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/exceptionHandling/MethNestTry.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/exceptionHandling/MultiCatch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/exceptionHandling/MultipleCatches.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/exceptionHandling/MyException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/exceptionHandling/NestTry.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/exceptionHandling/ThrowDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/exceptionHandling/ThrowsDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/generics/BoundsDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/generics/BridgeDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/generics/Gen.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/generics/Gen1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/generics/Gen10.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/generics/Gen11.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/generics/Gen2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/generics/Gen3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/generics/Gen4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/generics/Gen5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/generics/Gen6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/generics/Gen7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/generics/Gen8.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/generics/Gen9.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/generics/GenArrays.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/generics/GenCons.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/generics/GenConsDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/generics/GenDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/generics/GenHierDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/generics/GenHierDemo1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/generics/GenHierDemo2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/generics/GenIFDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/generics/GenMethDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/generics/MethOverrideDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/generics/MinMax.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/generics/MyClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/generics/NonGen.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/generics/NonGen1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/generics/NonGenDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/generics/RawTypeDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/generics/SimpGen.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/generics/Stats.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/generics/Stats1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/generics/TwoGen.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/generics/WildcardDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/iOtryWithResourcesAndOtherTopics/A.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/iOtryWithResourcesAndOtherTopics/AssertDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/iOtryWithResourcesAndOtherTopics/B.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/iOtryWithResourcesAndOtherTopics/BRRead.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/iOtryWithResourcesAndOtherTopics/BRReadLines.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/iOtryWithResourcesAndOtherTopics/C.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/iOtryWithResourcesAndOtherTopics/CopyFile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/iOtryWithResourcesAndOtherTopics/CopyFile1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/iOtryWithResourcesAndOtherTopics/D.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/iOtryWithResourcesAndOtherTopics/Hypot.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/iOtryWithResourcesAndOtherTopics/InstanceOf.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/iOtryWithResourcesAndOtherTopics/PrintWriterDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/iOtryWithResourcesAndOtherTopics/ShowFile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/iOtryWithResourcesAndOtherTopics/ShowFile1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/iOtryWithResourcesAndOtherTopics/TinyEditor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/iOtryWithResourcesAndOtherTopics/WriteDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/inheritance/A.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/inheritance/A1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/inheritance/A2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/inheritance/A3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/inheritance/A4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/inheritance/A6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/inheritance/AbstractAreas.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/inheritance/AbstractDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/inheritance/B.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/inheritance/B1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/inheritance/B2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/inheritance/B3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/inheritance/B4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/inheritance/B6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/inheritance/Box.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/inheritance/Box1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/inheritance/Box2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/inheritance/BoxWeight.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/inheritance/BoxWeight1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/inheritance/BoxWeight2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/inheritance/BoxWeightInheritance.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/inheritance/C2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/inheritance/CallingConstructors.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/inheritance/DemoSuper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/inheritance/Figure.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/inheritance/Figure1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/inheritance/FirstDerivedClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/inheritance/MethodOverload.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/inheritance/MethodOverride.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/inheritance/MultiLevelHierarchicalInheritance.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/inheritance/MyClass1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/inheritance/Rectangle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/inheritance/Rectangle1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/inheritance/RunTimePolymorphism.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/inheritance/SecondDerivedClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/inheritance/Shipment.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/inheritance/SimpleInheritance.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/inheritance/SuperNameHiding.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/inheritance/Triangle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/inheritance/Triangle1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/inheritance/TypeInferenceAndInheritance.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/introducingClasses/Box.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/introducingClasses/Box1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/introducingClasses/Box2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/introducingClasses/Box3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/introducingClasses/Box4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/introducingClasses/Box5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/introducingClasses/Box6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/introducingClasses/BoxDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/introducingClasses/BoxDemo1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/introducingClasses/BoxDemo2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/introducingClasses/BoxDemo3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/introducingClasses/BoxDemo4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/introducingClasses/BoxDemo5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/introducingClasses/BoxDemo6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/introducingClasses/Stack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/introducingClasses/TestStack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/multiThreadedProgramming/A.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/multiThreadedProgramming/B.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/multiThreadedProgramming/Caller.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/multiThreadedProgramming/Callme.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/multiThreadedProgramming/Consumer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/multiThreadedProgramming/CurrentThreadDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/multiThreadedProgramming/Deadlock.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/multiThreadedProgramming/DemoJoin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/multiThreadedProgramming/ExtendThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/multiThreadedProgramming/MultiThreadDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/multiThreadedProgramming/NewThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/multiThreadedProgramming/NewThread1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/multiThreadedProgramming/NewThread2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/multiThreadedProgramming/NewThread3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/multiThreadedProgramming/NewThread4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/multiThreadedProgramming/PCFixed.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/multiThreadedProgramming/Producer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/multiThreadedProgramming/Q.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/multiThreadedProgramming/SuspendResume.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/multiThreadedProgramming/Synchronization.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/multiThreadedProgramming/ThreadDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/operators/BasicMath.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/operators/BoolLogic.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/operators/IncDec.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/operators/Modulus.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/operators/OpEquals.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/operators/Ternary.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/p1/Demo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/p1/Derived.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/p1/Protection.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/p1/SamePackage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/p2/Demo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/p2/OtherPackage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/p2/Protection2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/packagesAndInterfaces/A$NestedIF.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/packagesAndInterfaces/A.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/packagesAndInterfaces/A1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/packagesAndInterfaces/AnotherClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/packagesAndInterfaces/AskMe.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/packagesAndInterfaces/B.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/packagesAndInterfaces/B1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/packagesAndInterfaces/Balance.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/packagesAndInterfaces/CallBackInterface.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/packagesAndInterfaces/Client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/packagesAndInterfaces/DefaultMethodDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/packagesAndInterfaces/IFExtend.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/packagesAndInterfaces/IntStack1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/packagesAndInterfaces/MyClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/packagesAndInterfaces/MyIF.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/packagesAndInterfaces/MyIFImp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/packagesAndInterfaces/NestedInterFaceDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/packagesAndInterfaces/Question.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/packagesAndInterfaces/SharedConstants.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/packagesAndInterfaces/TestBalance.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/packagesAndInterfaces/TestIface.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/target/classes/packagesAndInterfaces/TestIface2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TheCompleteReference/test.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="AnnotationType" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2EnppHFhSaOkBChQ4FpdTO4iC73" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/sochtech/IdeaProjects/Java Codes/Key_Topics/src/main/java&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="annotation.codingWithJohn" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.RepeatingAnnotations1">
+    <configuration name="MultiValueAnnotationDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="annotation.hindiLec.MultiValueAnnotationDemo" />
+      <module name="Key_Topics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="annotation.hindiLec.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MultiValueAnnotationDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="annotation.hindiLec.MultiValueAnnotationDemo1" />
+      <module name="Key_Topics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="annotation.hindiLec.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RepeatingAnnotations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="annotation.hindiLec.RepeatingAnnotations" />
+      <module name="Key_Topics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="annotation.hindiLec.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RepeatingAnnotations1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="annotation.hindiLec.RepeatingAnnotations1" />
+      <module name="Key_Topics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="annotation.hindiLec.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SingleValueAnnotationDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="annotation.hindiLec.SingleValueAnnotationDemo" />
+      <module name="Key_Topics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="annotation.hindiLec.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.RepeatingAnnotations1" />
+        <item itemvalue="Application.RepeatingAnnotations" />
+        <item itemvalue="Application.MultiValueAnnotationDemo1" />
+        <item itemvalue="Application.MultiValueAnnotationDemo" />
+        <item itemvalue="Application.SingleValueAnnotationDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="feb0ccc7-bf08-4273-afd0-af45f5d67ca1" name="Changes" comment="" />
+      <created>1663241391379</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1663241391379</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
